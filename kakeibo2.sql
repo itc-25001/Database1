@@ -1,0 +1,5 @@
+CREATE OR REPLACE DATABASE kakeibo2;
+USE kakeibo2;
+CREATE TABLE 家計簿(
+	日付 DATE,
+
